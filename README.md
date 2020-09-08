@@ -2,7 +2,7 @@
 
 ### Abstract
 
-This document outlines three ideas for the capstone 3.
+This document outlines ideas for capstone 3.
 
 #### Idea 1
 
