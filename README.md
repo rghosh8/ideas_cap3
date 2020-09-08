@@ -26,3 +26,9 @@ https://www.kaggle.com/c/nlp-getting-started/overview
 Walmart sales forecasting
 
 https://www.kaggle.com/c/m5-forecasting-accuracy/discussion/164374
+
+#### Idea 5
+
+Generative dog images
+
+https://www.kaggle.com/c/generative-dog-images
