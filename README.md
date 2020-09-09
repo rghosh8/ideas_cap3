@@ -32,3 +32,7 @@ https://www.kaggle.com/c/m5-forecasting-accuracy/discussion/164374
 Generative dog images
 
 https://www.kaggle.com/c/generative-dog-images
+
+#### ECG Classification
+
+http://www.timeseriesclassification.com/description.php?Dataset=ECG5000
