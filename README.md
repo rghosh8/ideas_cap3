@@ -26,18 +26,18 @@ http://www.timeseriesclassification.com/description.php?Dataset=ECG5000
 
 ## Additional Ideas
 
-#### Idea 3
+#### Idea 4
 
 Google landmark recognition:
 https://www.kaggle.com/c/landmark-retrieval-2020
 
-#### Idea 4
+#### Idea 5
 
 Improve capstone 2
 
 https://www.kaggle.com/c/nlp-getting-started/overview
 
-#### Idea 5
+#### Idea 6
 
 Walmart sales forecasting
 
